@@ -4,6 +4,7 @@ Create all colors of your unit for the Chaos Galaxy Game.
 Press Ctrl+D for create your spritesheet.
 
 You need to use any lines of colors from this palette except the last one. They are the "31" factions of the game.
+
 ![Alt text](ColorPalette.png)
 
 You can put only the front and the reverse back like the example below or the 4 frames.
