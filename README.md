@@ -1,4 +1,6 @@
-# Chaos Maker SpriteSheet Lazy Maker
+# Chaos Galaxy SpriteSheet Lazy Maker
+Chaos Galaxy 2 is a game where the modding begin to be added. Pre-emptively, i have create this tool for help me.
+
 Create all colors of your unit for the Chaos Galaxy Game.
 
 Press Ctrl+D for create your spritesheet.
