@@ -67,7 +67,7 @@
             <TextBlock Margin="2"
                        FontWeight="Bold"
                        TextWrapping="Wrap"
-                       Text="Version 0.5 | 24 september 2022 | Ping Snrasha for any feedback, idea or typo. You can use sprite which contains only front/behind or all orientations" />
+                       Text="Version 1.0 | 24 september 2022 | Ping Snrasha for any feedback, idea or typo. You can use sprite which contains only front/behind or all orientations" />
 
         </Border>
     </StackPanel>

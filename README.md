@@ -20,4 +20,4 @@ Unzip it and execute the executable.
 ![Alt text](ChimSword.png)
 
 ## Output:
-![Alt text](ChimSword SpriteSheet.png)
+![Alt text](ChimSword_SpriteSheet.png)
